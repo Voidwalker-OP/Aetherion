@@ -1,0 +1,3 @@
+This file will be used for displaying app icons in Aetherion.
+
+  SIGNED ON 12.12.2025
